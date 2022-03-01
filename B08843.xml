@@ -1,0 +1,361 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A country dialogue between William and James, on the monthly fast-day with reflections on the earthquake which lately happened at Jamaica, and here Sept. 8. 1692.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 39 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08843</idno>
+            <idno type="OCLC"> 80922397</idno>
+            <idno type="STC">Wing C6528</idno>
+            <idno type="STC">ESTC R171554</idno>
+            <idno type="EEBO-CITATION">80922397</idno>
+            <idno type="OCLC">ocm 80922397</idno>
+            <idno type="VID">191848</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08843)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 191848)</note>
+            <note>Images scanned from microfilm: (Early English books; 1641-1700 ; 2892:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A country dialogue between William and James, on the monthly fast-day with reflections on the earthquake which lately happened at Jamaica, and here Sept. 8. 1692.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1692]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Date of publication suggested by the Wing.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  William and Mary, 1689-1702 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="dialogue">
+            <pb n="1" facs="tcp:191848:1"/>
+            <head>A Country DIALOGUE BETWEEN William and James, ON THE MONTHLY FAST-DAY WITH REFLECTIONS ON THE EARTHQUAKE Which lately happened at <hi>Iamaica,</hi> and <hi>Here <hi>Sept.</hi>
+               </hi> 8. 1692.</head>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>WEll met, <hi>Jemmy:</hi> Why was you not at Church to day?</p>
+            </sp>
+            <sp>
+               <speaker>Jam.</speaker>
+               <p>I choſe the better part, Charity; I carry'd in a dozen Loads of Wheat <hi>[the Weather is very uncertain, and we muſt expect Corn will be dear]</hi> with which I ſhall be able to relieve my poor Abdicated Neighbours.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>I am ſorry you was not there; for we had a moſt heavenly Sermon preached by a Strange Divine.</p>
+            </sp>
+            <sp>
+               <speaker>Jam.</speaker>
+               <p>Ay, We have very many Strange Divines now-a-days.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>You take me up before I'm down, <hi>Jemmy;</hi> I meant a Stranger.</p>
+            </sp>
+            <sp>
+               <speaker>Jam.</speaker>
+               <p>So do I too; Strangers to the Orthodox Doctrine of the Church of <hi>England.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>You will have your way ſtill, I find: Before the Sermon our Vicar tickled it off with a godly Prayer made by Biſhop <hi>B—net</hi> and the new Archbiſhop <hi>T—n;</hi> and that muſt be Orthoknocks as you call it, I hope.</p>
+            </sp>
+            <sp>
+               <speaker>Jam</speaker>
+               <p>New-no Biſhop, if you will believe St. <hi>Cyprian,</hi> as you may find it in Dr. <hi>Stilling<g ref="char:EOLhyphen"/>fleet's <g ref="char:V">Ʋ</g>nreaſonableneſs of Separation,</hi> p. 246. His Words are ſo conſiderable to our purpoſe, that I will ſet them down: <hi>Et cum poſt primum ſecundus eſſe non poſſit, quiſque poſt unum qui <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> eſſe debeat, factus eſt, non jam ſecundus ille ſed nullus eſt;</hi> 
+                  <q rend="margQuotes">Since there cannot be a ſecond af<g ref="char:EOLhyphen"/>ter the firſt, whoſoever is made Biſhop when one is made already, who ought to be alone, he is not another Biſhop, but none at all.</q> Thou knoweſt as well as I, <hi>Billy,</hi> that Dr. <hi>Stil<g ref="char:EOLhyphen"/>ling fleet</hi> and Dr. <hi>Tillotſon</hi> were inſeparable Waiters at <hi>Whitehall,</hi> and club'd in their Writings: Let them reconcile theſe Words of St. <hi>Cyprian,</hi> even the holy and meek St. <hi>Cyprian,</hi> to their
+<pb n="2" facs="tcp:191848:2"/>Practices, if they can: And 'tis moſt earneſtly deſired, that they would club again, and ſolve this <hi>Dilemma.</hi> St. <hi>Cyprian</hi>'s Argument is good againſt Mr. <hi>Baxter; ergo,</hi> 'tis ſo againſt the new Archbiſhop of <hi>Canterbury;</hi> for, the moſt Reverend Father in God, Dr. <hi>Sancroft,</hi> is ſtill living.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>You are too Book-learn'd for me: but I'll warrant you the Archbiſhop <hi>Til—n</hi> will ſatisfie you; for he is a very good Chriſtian.</p>
+            </sp>
+            <sp>
+               <speaker>Jam.</speaker>
+               <p>Your Warrant I fear will fail in both your Hypotheſis's; the latter is very much que<g ref="char:EOLhyphen"/>ſtion'd. But that we may not be longer Strangers to this ſtrange godly Prayer, I pra'ye what was it?</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>That God would Bleſs, Preſerve and Keep, our moſt <hi>Gracious</hi> K. <hi>William,</hi> and our moſt <hi>Religious</hi> Q. <hi>Mary;</hi> And that he would Defend them againſt, and give them Victory over, all their Enemies.</p>
+            </sp>
+            <sp>
+               <speaker>Jam.</speaker>
+               <p>What Enemies? Did the Parſon name them, <hi>Billy?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>No, No: But every body knows he meant the Moſt Chriſtian Turk, <hi>Lewis</hi> the French King; and the late King <hi>James,</hi> who would bring into <hi>England,</hi> Popery, Slavery, and Arbitrary Power: But I'll warrant him for ever returning; for the Prayers of the Godly will prevail certainly.</p>
+            </sp>
+            <sp>
+               <speaker>Ja.</speaker>
+               <p>The Godly! Where doſt thou read that God commanded or enjoyn'd Subjects to pray for the Deſtruction of their lawful King?</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>King <hi>William</hi> and Queen <hi>Mary</hi> hath commanded it, and I am bound in Conſcience to obey our King and Queen; and they are our lawful Soveraigns, I'm ſure; I ſaw them Anointed and Crowned with mine own Eyes.</p>
+            </sp>
+            <sp>
+               <speaker>Ja.</speaker>
+               <p>Ay, they are the People's Anointed: But did not You and I ſee King <hi>James</hi> Anointed and Crown'd too? What became of Your <hi>Conſcience</hi> when you Rebell'd againſt him? Ha!</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>I believe by your Talk you did not Faſt nor Pray neither to day.</p>
+            </sp>
+            <sp>
+               <speaker>Ja.</speaker>
+               <p>Yes, I did both; but 'twas for our Sins, particularly thoſe of the deepeſt Dye, <hi>Rebel<g ref="char:EOLhyphen"/>lion</hi> and <hi>King-killing:</hi> You make an <hi>Ahab</hi>'s Faſt for <hi>Naboth</hi>'s Vineyard: You have Slander'd the King our Father, and his Son; nay more, Depos'd him, and thruſt him into a ſtrange Country to ſtarve; but God hath rais'd him a Friend in his Extremity: and now you Faſt and Pray that God would proſper you in your Rebellion; and that he would be pleas'd to null the Fifth, Eighth, Ninth and Tenth Commandments, that you may waſh your hands, and ſay we're Innocent.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>No, We pray to God to confound the French King and his Devices.</p>
+            </sp>
+            <sp>
+               <speaker>Jam.</speaker>
+               <p>Becauſe he preſerves our lawful King <hi>James:</hi> If he would baniſh him as <hi>Oliver Crom<g ref="char:EOLhyphen"/>well,</hi> our Prototype, formerly gain'd that point; then inſtead of Curſing you would Bleſs him: But God hath given this Monarch a more ſublime Soul. When we do re-eſtabliſh K. <hi>James</hi> on his Throne, the glorious K. <hi>Lewis</hi> will make an advantageous Peace for all Chriſtendom. No<g ref="char:EOLhyphen"/>thing obſtructs a Peace ſo much as the boundleſs Ambition of K. <hi>W.</hi> and poor <hi>England</hi> is the Aſs to bear the Burthen whilſt we mount him, and raiſe the Dutch to trample us in the dirt.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>Odſooks, ſay you ſo? The Parſon did not ſay one word of that.</p>
+            </sp>
+            <sp>
+               <speaker>Jam.</speaker>
+               <p>No, 'tis too nice a point to be touch'd: but if you will have a little patience, and ſet aſide your unreaſonable Prejudices, I will demonſtrate the whole matter to you as conciſely and with as much Veracity as I can. Know then, that this damnable Conſpiracy hath been hatching in K. <hi>Charles</hi> II. time; for when they found that good King firm to his Reſolution of keeping the Succeſſion in the Right Line; and notwithſtanding all their Artifices, would not paſs the Bill of Excluſion; but withal advis'd them to make the ſtricteſt Bill they could to menacle their Kings in caſe of a Popiſh Succeſſor, and he would Sign it: which was ſo far from giving them Satisfaction at that time, altho ſo indulgent, reaſonable, and condeſcend<g ref="char:EOLhyphen"/>ing, that <hi>Shaftsbury</hi> was ſent into <hi>Holland,</hi> and there founded this horrible Conſpiracy and unnatural Rebellion. It was not ſo much to keep out Popery, ſuppreſs Arbitrary Power, and preſerve Property <hi>[Neither of which was in danger in that King's Reign]</hi> as it is inſinuated in all the P. of <hi>Orange</hi>'s Declarations; but to alter the Succeſſion, and to make the K. of <hi>England</hi> Elective, which they have effected in the P. of <hi>Orange,</hi> deſigning thereby a Commonwealth when they are able.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>But K. <hi>James</hi> intended to bring in Popery, and govern Arbitrarily by diſpenſing with our Laws; 'tis better a Commonwealth than under ſuch a King.</p>
+            </sp>
+            <pb n="3" facs="tcp:191848:2"/>
+            <sp>
+               <speaker>Jam.</speaker>
+               <p>To enervate that, I was an ocular and an auricular Evidence; for K. <hi>James,</hi> the Night before he went to <hi>Windſor,</hi> and then for <hi>Salisbury,</hi> was pleaſed to expreſs himſelf at Supper with great Concern for his Kingdoms, in theſe Words, with Hands and Eyes lift toward Hea<g ref="char:EOLhyphen"/>ven; <hi>What would my People have? I will call a Parliament that all Grievances may be taken away, that Laws may be made to ſecure their Religion and Property, that they may examine ſtrictly into the Birth of the Prince of</hi> Wales; <hi>God forbid that any ſuch Cheat ſhould be put upon the Nation; for,</hi> ſaid our good King [darting his Eyes on the Pope's Nuntio] clapping his Hand on his Breaſt, <hi>I will do as I would be done by, for that is the Law and the Prophets.</hi> Then directing his Diſcourſe to the Earl of <hi>Oxford</hi> [who waited then as Gentleman of the Bedchamber] with the ſame Aſſeveration, ſtriking his Breaſt, he ſaid, <hi>I will do as I would be done by, for that is the Law and the Prophets.</hi> Then ſpeaking to Sir <hi>Henry Firebrace,</hi> Clerk-Comptroller in wait<g ref="char:EOLhyphen"/>ing, he continued his religious Proteſtation, ſmiting his Breaſt, <hi>&amp;c.</hi> as before. I ſaw and heard all this, <hi>Billy,</hi> as I hope for Salvation: And his Majeſty expreſs'd himſelf ſo pathetical<g ref="char:EOLhyphen"/>ly, that we did ſee, as it were, his Royal Soul in his Pious Face; <hi>Vultus index animi:</hi> if ever it was true, 'twas at that time. And to confirm he ſpoke his Sentiments a Great Perſon, who is now alive, told me then the King had declar'd in Coucil, <hi>There was nothing his People could ask of him that he would not do to ſatisfie them: yet I am afraid,</hi> ſaid he, <hi>'tis <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> too late.</hi> His Lordſhip is now in Commiſſion, and therefore you need not doubt of his Majeſty's Inte<g ref="char:EOLhyphen"/>grity, ſince a <hi>Williamite</hi> avow'd it. A Peer of the Realm doth not ſwear when he gives his Verdict againſt his Fellow-Peer; only puts his Hand to his Heart, ſaying <hi>
+                     <g ref="char:V">Ʋ</g>pon my Honour,</hi> and 'ts ſufficient: His Majeſty King <hi>James</hi> did it three times, calling God to witneſs: I hope you will allow him his Peerage, <hi>Billy.</hi> Yet infatuated Engliſhmen would not believe him! How many Millions of Money? How many Thouſands of Lives? How many Hundreds of Ships had we ſaved? What Reproaches? What Calamities? nay, What Sin<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> had we avoided, by adhering to our pious Soveraign's Promiſes and Declarations. But we blaſphemed the Lord's Anointed and our Soveraign Lord the King ſaying He is a Deceiver, we will not be<g ref="char:EOLhyphen"/>lieve him, <hi>[We will not have this man to reign ever us]</hi> and yet at the ſame time embraced the P. of <hi>Orange</hi> as a Saviour ſent from Heaven inſpired for our mi<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>culous Preſervation; and are ſtill going on in our Lethargick Chimera's, altho he hath not made out any thing in his Declarations, particularly his bringing over the P. of <hi>Wales</hi>'s Mother, a poor Baker's Wife as was pretended; tho K. <hi>James</hi> ſent Letters to both Houſes to examine narrowly into the Birth of that Prince, ſaying, <hi>It is not to be ſuppoſed at this time of day that the P. of</hi> Wales <hi>back aw<g ref="char:EOLhyphen"/>ny Friends in either Houſe:</hi> yet it was not inſiſted on, becauſe they know the Proofs irre<g ref="char:EOLhyphen"/>fragable. And tho ſome ſay that was not in the P. of <hi>Orange</hi>'s Declaration, yet 'tis well known that ſuch a Woman was every Night expoſed on Horſelack in <hi>Holland,</hi> where their Circie of Coaches met as ours do in <hi>Hide-Park,</hi> and publickly declared the P. of <hi>W<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>les</hi> Mother who was to go into <hi>England</hi> with the P. of <hi>Orange</hi> to confront the Juggle, as t<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y call'd it, of the Birth of the P. of <hi>Wales.</hi> To confirm the truth of this, ſeveral Perſons of Subſtance who were then in <hi>Holland</hi> have deſerted the P. of <hi>Orange</hi>'s Intereſt upon that politick Dutch-Trick. You may judge of all other Cheats by this. If the P. of <hi>Orange's</hi> Deſign had been purely to ſettle Religion and Property by Law, and for preventing Popery and Arbitrary Power, and to ſet<g ref="char:EOLhyphen"/>tle the Succeſſion, as 'twas pretended Why did he not, as King <hi>James</hi> propoſed, remain in ſome part of his Majeſty's Dominion with his Troops, that a Free Parliament might be cal<g ref="char:EOLhyphen"/>led to adjuſt all Jealouſies and Grievances? This had been a moſt glorious Atchievment, wor<g ref="char:EOLhyphen"/>thy to be engraven in the Roll of Fame <hi>ad perpetuam rei memoriam:</hi> But inftead of giving an Anſwer to the King, his Uncle and Father-in-law, by the Lords whom he had ſent to him on that Errand, he marches directly for <hi>Windſor Caſtle,</hi> and thence to St. <hi>James</hi>'s And to ſhew he came poſitively for the Crown, all his Declarations were in the Royal Stile, <hi>We,</hi> &amp;c. To purſue which Deſign, after the Guards were ſet by the King he changed them to <hi>Dutch</hi> Guards, and ſent three Lords when His Majeſty was in a ſound ſleep at Midnight who rude<g ref="char:EOLhyphen"/>ly wak'd him [tho diſſwaded from it by the Page and Gentleman of the Bed-chamber, who told them the K. was not well, and had ſlept very little in two Nights before] to tell him the P. of <hi>Orange</hi> could not think himſelf ſafe His Majeſty being ſo near him; and therefore he would have him remove [that Night too, elſe they might have ſtaid until the Morning] ei<g ref="char:EOLhyphen"/>ther to <hi>ham-Houſe</hi> or to <hi>Hampton-Court. O barbarous Inſolence!</hi> You or I could not have en<g ref="char:EOLhyphen"/>dured it from Servants; no, not from our Parents!</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>Odſooks, I would have broke their Heads had any ſerved me ſo.</p>
+            </sp>
+            <pb n="4" facs="tcp:191848:3"/>
+            <sp>
+               <speaker>Jam.</speaker>
+               <p>Well then, by this time I hope you do not think the King did abdicate us, — we do not truly underſtand the word; it ſignifies a free and voluntary reſignation of our Right; Now pray conſider, did K. <hi>James</hi> freely and voluntarily reſign his Crowns? or was he not forced to make his eſcape out of the hands of his Enemies to ſave his Life? For they had put a <hi>Dutch</hi> Guard upon him, by which he was made a Priſoner, and Death uſually is the next ſtep to Monarchs.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>They muſt go whom the Devil drives; I never heard a word of this before.</p>
+            </sp>
+            <sp>
+               <speaker>Jam.</speaker>
+               <p>No, nor thouſands more, but the quite contrary; for they are true Children of their Father, they delight in, and carry on their deſigns by Lies: But what have we gain'd by this Revolution and Rebellion? Let us caſt up our Accompts. <hi>Imprimis</hi> — We have Dethron'd, Depos'd, Baniſh'd, and for ever as much as in us lies, extirpated our Lawful King, and his true Heir, under whom we enjoy'd Peace, Plenty, and Proſperity: We paid nothing for theſe Bleſſings <hi>Billy;</hi> no! not ſo much as our Prayers and Praiſes to Heaven for them as we ought! if we had, God would not have permitted theſe judgments to fall upon us: Our Sins are the cauſe, let us therefore repent and make reſtitution to our ſo much injur'd Soveraign: Repentance cannot be true without Reſtitution; to repent and yet continue in the ſame Sin is nonſenſe; 'Tis like the Swearing Clergy-men, who in the Letany, pray <hi>From all Sedition, privy Conſpiracy and Rebellion, good Lord deliver us;</hi> and yet they continue in Actual Rebellion, Preaching againſt their Lawful King, and praying for an Uſurper: Call ye theſe Prayers and Praiſes to God? No, no, be not deceiv'd; 'Tis the ſacrifice of Fools and Knaves; and God will eſteem it no other. I fear, and tremble at it. There were few or no Taxes in K. <hi>James</hi>'s Reign; but ſince this Revolution, Rebellion and Uſurpation, in four years time on<g ref="char:EOLhyphen"/>ly, more Money hath been drain'd from poor miſtaken-abuſed-<hi>England</hi> than in the two former Reigns; from the miraculous Reſtoration of K. <hi>Charles</hi> II. [<hi>more than</hi> 28 <hi>Years which great Bleſ<g ref="char:EOLhyphen"/>ſing We have quite forgotten too</hi>] until the Diabolical Abdication of K. <hi>James:</hi> Nay, I may ſafely take in the Reigns of Qu. <hi>Elizabeth,</hi> K. <hi>James</hi> I. and K. <hi>Charles</hi> I. [<hi>In all</hi> 129 <hi>years</hi>] in whoſe Reign what noiſe did a little Ship-money make, which built the <hi>Royal Soveraign? [a Ship which hath done ſo much Honour and Service to the Engliſh Nation, and remains capable to do a great deal more:]</hi> The heat was, becauſe the King rais'd it without a Parliament. But now a Convention and a Foreign Prince can Dethrone the Lawful King, and make a Parlia<g ref="char:EOLhyphen"/>ment, which gives away almoſt all the Wealth of the Nation to enrich the <hi>Dutch;</hi> and it goes down glib with us! Neither do they ſo much as enquire how K. <hi>William</hi> hath perform'd the Prince of <hi>Orange</hi>'s Declarations.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>'Tis true indeed; we cannot boaſt of his Integrity in that: But we are freed from <hi>Po<g ref="char:EOLhyphen"/>pery,</hi> that is totally cruſh'd.</p>
+            </sp>
+            <sp>
+               <speaker>Jam.</speaker>
+               <p>And the Church of <hi>England</hi> too, in a great meaſure, which is the only Bulwark againſt <hi>Popery;</hi> when that Rampart is demoliſh'd, <hi>Popery</hi> will flow upon us impetuouſly: But we do not ſee ſo much Religion to brag of in K. <hi>W.</hi> Before he came over 'twas confidently averr'd, that he uſed to go to Maſs; and promiſed the Confederate Popiſh Princes, that he would be kind to the Papiſts; of whom he brought over, and continues, many thouſands in his Army, (and pays them tho he goes on tick with the <hi>Engliſh.</hi>) In <hi>Scotland</hi> he is a Kirkſman, the Church of <hi>England</hi> is almoſt deſtroyed there: In <hi>Ireland</hi> he would allow of <hi>Popery,</hi> or any thing what the People pleaſe, to gain that Government: In <hi>England</hi> he is a lukewarm Chri<g ref="char:EOLhyphen"/>ſtian, favouring all, and truly of no Religion; unleſs Predeſtination can be call'd Religion. Empire is his ſole aim and deſign, which he will compaſs directly or indirectly; by Policy, Stratagems, Diſſimulation, breach of Promiſes, Proteſtations and Declarations; or by the death of thouſands of Soldiers. He was earneſtly entreated and adviſed <hi>[ſince we Created him King, for he was made ſo out of nothing]</hi> to decline his precipitate intention of attacking the Enemy; becauſe in all probability, he would looſe 10000 Men before his Army could have equal fighting, they being ſo advantageouſly Poſted: What then, replyed he, ſo we gain our Point: For if we are predeſtinated to conquer, we ſhall overcome; if not we muſt be beaten; <hi>O pius Pater Patriae!</hi> who values not his Subjects Lives and Treaſure, ſo he climbs to the top of the Pinacle. And to ſtrengthen this Aſſerſion, What Popular Acts hath he paſs'd ſince we dub'd him King, to recompence, all our Bloud and Treaſure? King <hi>James</hi> had other Bowels; For when his Subjects, thoſe whom he had moſt endear'd, had deſerted him; O <hi>Engliſh</hi> Ingratitude to their Kings! he would not venture the remaining Loyaliſts; becauſe they were but an handful to a multitude: Oh! call not his Piety cowardiſe I beſeech
+<pb n="5" facs="tcp:191848:3"/>you Friends and Fellow Subjects, 'twas true Religion; he was truly Religious (in his way) and only deſign'd that the Roman Catholicks might have a limited Liberty for their Religion, of which His Majeſty is a member, to be adjuſted by Act of Parliament, as likewiſe our Grie<g ref="char:EOLhyphen"/>vances: Certainly it had been our Intereſt to have kept our Old Religion, and our Lawful King: in his time our Coffers were full and ran over, but now they muſt ſqueeze to get any thing out of them.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>Odſooks and ſqueeze very hard let me tell you that; they Poll, and Poll, and Poll every quarter, ſo that I cannot pay my Rent I'm ſure.</p>
+            </sp>
+            <sp>
+               <speaker>Jam.</speaker>
+               <p>We are well enough ſerv'd, we brought it on our ſelves by <hi>Abdicating</hi> our good Old King, and careſſing a Petty Prince; for whom, and our deprav'd fanſie, we paid the firſt pen<g ref="char:EOLhyphen"/>ny, a-lumping-all-to-make-a-penny-worth, the ſum of 600000 <hi>l.</hi> Sterling.</p>
+            </sp>
+            <sp>
+               <speaker>Item.</speaker>
+               <p>In Taxes, moſt part of which is carryed out of the Land, never to return again, ex<g ref="char:EOLhyphen"/>cept ſome Half Crowns which are ſo Clip'd they hardly weigh 22 <hi>d.</hi> and yet they do it in <hi>Holland</hi> openly in their Shops: a Crime with all Capital, but there a Trade: the Taxes are computed at about 20000000 <hi>l.</hi> Sterling; but I do not pretend to be exact, becauſe a true account thereof will be publiſhed by way of Debtor and Creditor, to preſent to the Houſes of Commons next Seſſions: I ſhall only adviſe my Country men to conſider, that when the Bloud ceaſes to circulate, the Body cannot live: Money is the Bloud of the Body-politick; that being exhauſted no Gold or Silver Mines are in <hi>England</hi> to repair or repleniſh it; and our Trade is ſo much impaired, that but little Bullion is imported to anſwer he vaſt exportation of our Coin.</p>
+               <p n="3">3. When Ships arrive richly laden, which is but ſeldom, we have not Money to buy thoſe Commodities; if we can cover our Nakedneſs decently and cheap, and put food into our Bellies to ſuſtain nature, it is all we can reach to now: And when our Merchants have caſt up their Accounts of double or treble wages to the Seamen, double time in waiting for Con<g ref="char:EOLhyphen"/>voys, <hi>&amp;c.</hi> Treble Inſurance Money, <hi>&amp;c.</hi> and their Goods laying dead upon their hands, with the mighty Loſſes they have ſuſtained at Sea; I hope, at laſt, they will be of my opinion, that Honeſty is the beſt Policy, and Godlineſs the trueſt gain, and <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hew it too by petitioning the Council now, and the Parliament the next Seſſion, to bring home our Lawful King.</p>
+               <p n="4">4. The number of Ships taken and loſt is computed at 2500 Sail; the value of which at 500 <hi>l.</hi> each Ship <hi>(a modeſt computation the cargo included)</hi> amounts to 4000000 <hi>l.</hi> not reckon<g ref="char:EOLhyphen"/>ing the Men of War loſt.</p>
+               <p>Laſtly, The number of brave Men killed, by this diſmal change is not eaſily computed; 'tis gueſſed at 100000, but if they could be exactly numbred, 'tis impoſſible they ſhould be valued; eſpecially their precious Souls.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>Well; in the main I am of your mind, that we have done a hair-brain-haſty-unad<g ref="char:EOLhyphen"/>viſed-action: But now we are in, we are obliged to go through; for if K. <hi>James</hi> returns by the Force of <hi>France,</hi> then we ſhall inevitably be overwhelmed with <hi>French</hi>-Arbitrary-Power and Slavery; be ſervile to Strangers, and Dragoon'd into <hi>Popery;</hi> and we were better conti<g ref="char:EOLhyphen"/>nue as we are, then we part with a great deal of our Riches, then totally to looſe our Reli<g ref="char:EOLhyphen"/>gion, which is dearer to us than our Lives.</p>
+            </sp>
+            <sp>
+               <speaker>Jam.</speaker>
+               <p>The ills which I have done cannot be ſafe, but by committing greater ſaid wicked <hi>Cataline;</hi> but Chriſtians have another method, Repentance; turn ye, turn ye from your wick<g ref="char:EOLhyphen"/>ed ways; <hi>for why will ye dye, O houſe of</hi> Iſrael, <hi>ſaith the Lord:</hi> You ſay we have done a hair-brain-haſty-action; but you mince the matter, for we have perpetrated a very wicked and ſin<g ref="char:EOLhyphen"/>ful deed: Rebellion is as the Sin of Witchcraft ſaith God.</p>
+               <p n="2">2. You ſay we muſt go through, <hi>&amp;c.</hi> as above: To which I anſwer, King <hi>James</hi> cannot in prudence endeavour to be re-eſtabliſhed in his Kingdoms by a Foreign Force <hi>[unleſs we compell him]</hi> for that way his People would be deſtroyed; his Country laid waſte, and his Subjects beggar'd; and 'tis next to a King of Clouts to be King of a debilitated and ruined Nation; at the beſt he could expect to be but a Vice-Roy during pleaſure by your bugbear ſuppoſition. No, King <hi>James</hi> ſays otherwiſe in his Declaration; <hi>The Moſt Chriſtian King hath, according to our deſire, declined to ſend over Troops ſo numerous, as may raiſe jealouſies in the minds of our good Subjects,</hi>
+                  <note place="margin">See K. <hi>James</hi>'s Declaration.</note> 
+                  <hi>of his intending to take the Work wholly out of their hands, or depriving any true <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ngliſhman of the part he may hope to have in ſo Glorious an Action, as is that of reſtoring his Lawful King; that but ſo many Troops ſhould come, as are ſufficient to untye the hands of our Subjects; and make it ſafe for them to
+<pb n="6" facs="tcp:191848:4"/>repair to Our Standard; which Troops ſhall be ſent back, as ſoon as we ſhall be fully ſettled in Poſſeſſion of our Kingdoms, without the leaſt injury to the Perſons or Poſſeſſions of Our Subjects,</hi> &amp;c. But we may prevent theſe ſurmiſes and fears by addreſſing to the Parliament, to recall Him, that His Reſtoration may be as Glorious as his Royal Brothers. Let all unbyaſſed Engliſh<g ref="char:EOLhyphen"/>men revolve how flouriſhingly we enjoyed our Religion, Laws, Property, and Trade after that miraculous Reſtoration; and God would reſtore the ſame Bleſſings had we the ſame repenting Hearts.</p>
+               <p n="3">3. As to our Servility to Strangers, <hi>&amp;c.</hi>—Your K. <hi>W.</hi> hath forty Papiſts in this Army to one that K. <hi>James</hi> had in his; and a much greater number of Strangers than our lawful King deſign'd to bring with him for his and our neceſſary Aſſiſtance. Remember the <hi>Danes</hi> in the days of yore, now they Lorded it over us, [and were from thence called <hi>Lordanes</hi>] and if we go on [or go through as you call it] to have our beſt Men killed in the <hi>Dutch Quarrel,</hi> and to ſupport the <hi>Ambition</hi> of K. <hi>William,</hi> we ſhall be ſo weakned, that <hi>Dutch</hi> Stran<g ref="char:EOLhyphen"/>gers will be our <hi>Maſters,</hi> and <hi>Engliſh</hi> Freeholders their <hi>Slaves.</hi> I beg, religiouſly, that all <hi>Free-born Engliſh-men would weigh this point truly,</hi> like brave old <hi>Engliſh-men.</hi>
+               </p>
+               <p n="4">4. Our Religion will be guarded by Acts of Parliament, as I told you I heard our gracious K. <hi>James</hi> promiſe, and you have ſeen in his Declaration which he will keep inviolably, tho the P. of <hi>Orange</hi> broke his in every Particular.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>If this be true, as I know a great part of it is, ſure we are not wiſe to be thus led by the noſe. I have read in a Book intituled <hi>A Diſcourſe written by Sir</hi> George Downing <hi>the King of</hi> Great Britain<hi>'s Envoy Extraordinary to the States of the</hi> United Provinces, ſhewing how cruelly, barbarouſly, and inhumanely, the <hi>Dutch</hi> treated us at <hi>Amboyna.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jam.</speaker>
+               <p>Ay; and when 'tis in their power they will uſe Us juſt ſo in <hi>England.</hi> The Lord open our eyes, that we may foreſee and prevent our ruine, for we are on the brinck of a Precipice: Yet notwithſtanding our loſs the other day (about 14000) by <hi>Namur,</hi> we have ſent more Recruits (12000 Men) the Soldiers who were to form a Deſcent into <hi>France</hi> this Summer to Crown K. <hi>William</hi> there, as the Prophecy tells you the <hi>Son of Man,</hi> meaning <hi>Him,</hi> muſt be this notable fourth Year of his Reign. O infatuated <hi>Engliſh-men!</hi> to believe ſuch Stuff! Yet, as the Doctrine now in vogue ſpeaks,—If the P. of <hi>Orange</hi> is predeſtinated to be King of <hi>France,</hi> it muſt be ſo; and if the People of <hi>England</hi> are predeſtinated to <hi>Rebell,</hi> and continue in it, they muſt do ſo, and be damn'd. So that by this <hi>Dutch</hi> Doctrine we make God the Author of all our Villanies. <hi>O horrible Blaſphemy!</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>Pray what may that pretended Deſcent coſt the Nation?</p>
+            </sp>
+            <sp>
+               <speaker>Jam.</speaker>
+               <p>About 3 or 400000 <hi>l.</hi> A Triſle.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>Trifle me no Trifles; I ſee we muſt be undone at this rate.</p>
+            </sp>
+            <sp>
+               <speaker>Jam.</speaker>
+               <p>If we do not repent it is very viſible we ſhall periſh: And truly I ſee but little hopes of true Repentance and thorow Reformation; for about three Weeks ſince I diſcours'd with one, who is a zealous <hi>Williamite,</hi> concerning the Premiſes, hoping to convince him, as God be thanked thou art; but his Heart was unmalleable: His chief Argument for their being in the right, was Succeſs. He began with the Prince of <hi>Orange</hi>'s Arrival in the Winter; how the Winds and Seas favoured him; how he miſſed our Fleet; how the Hearts of the People were open to receive him; his Conqueſt in <hi>Ireland;</hi> the beating the <hi>French</hi> Fleet, <hi>&amp;c.</hi> I ur<g ref="char:EOLhyphen"/>ged <hi>David</hi>'s Complaint, how the Wicked flouriſhed in his time, <hi>Then,</hi> ſaid he, <hi>I have cleanſed my ſelf in vain, and waſhed my hands in innocency.</hi> The Succeſs of the Wicked amuſed holy <hi>David;</hi> it was too hard for him to underſtand until he went into the Houſe of the Lord, then he knew the end of theſe Men; namely, <hi>That they ſtand in ſlippery places, and ſhall be caſt down and come to a fearful end.</hi> That Succeſs is not the Chriſtian's Rule, the Word of God, the Scriptures, are our guide: <hi>If an Angel from Heaven ſhould preach any other Doctrine to you than what you have received from us let him be anathema,</hi> ſaith the Apoſtle. Now the Scriptures ſay, <hi>Honour thy Father and Mother; Thou ſhalt not Steal; Thou ſhalt not Covet; Fear God and honour the King; Touch not mine Anointed, and do my Prophets no harm; Mine Anointed, not the Peoples,</hi> and much more. Then to weaken his Argument founded on Succeſs and Proſperity, I con<g ref="char:EOLhyphen"/>jur'd him to confider religiouſly the terrible Earthquake at <hi>Jamaica</hi> in <hi>July</hi> laſt in which ſo many Thouſands were ſwallowed quick; they went down into the Pit, not having time to ſay <hi>Lord be merciful to us Sinners;</hi> about four Milli<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s of Trcaſure was buried and deſtroyed. And this Iſland is the beſt Plantation the <hi>Engliſh</hi> have in the <hi>Weſt-Iudies,</hi> and is now as much ſubject to K. <hi>William</hi> as his other Dominions: Surely then this Earthquake muſt be eſteem'd
+<pb n="7" facs="tcp:191848:4"/>a great Judgment, and muſt put a <hi>Remora</hi> to the celebrated Succeſs and Proſperity ſo much boaſted of, <hi>&amp;c.</hi> He returned, That Earthquakes proceed from natural Cauſes; that they were a wicked People, <hi>Sodom</hi> and <hi>Gomorrha</hi> were not more ſinful, and their Deſtruction was but the effects of God's Juſtice; That We in <hi>England</hi> were true Proteſtants, and lived up to the Religion We profeſs, and therefore he feared no Earthquakes here: 'tis <hi>Terra firma</hi> in <hi>Old England.</hi> I told him, That God could ſhake the Foundations of the whole Earth, and would his <hi>Terra firma</hi> if We continued in our Sins: That the <hi>Phariſee</hi> thanked God he was not ſo wicked as the penitent <hi>Publican,</hi> but that <hi>Publican</hi> was juſtified rather than he: That our Sa<g ref="char:EOLhyphen"/>viour ſaid they were not greater Sinners on whom the Tower fell than thoſe who eſcap'd; but if they did not repent they ſhould all likewiſe periſh: That this Judgment was ſent on Them to warn Us: That <hi>Jamaica</hi> could not be guilty of greater Sins than we have perpetrated: We did <hi>Behead our lawful pious King,</hi> and do yet continue in a <hi>Wicked Rebellion:</hi> at which Word he piſh'd, and ſo we parted. O <hi>Billy,</hi> what hope is there of Repentance in them who are ſo far from owning their Sins, that they applaud their own Righteouſneſs, and bring God him<g ref="char:EOLhyphen"/>ſelf to juſtifie them by his forbearance.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>Truly we are a very wicked and obdurate People; yet God is pleaſed ſtill to <hi>Warn</hi> us: What a terrible Trepidation had we this 8<hi rend="sup">th</hi> day of <hi>Seprember,</hi> at Two of the Clock in the Afternoon? Which ſhews God can ſhake this <hi>Terra firma</hi> ſo much relied on by inſenſible Wretches.</p>
+            </sp>
+            <sp>
+               <speaker>Jam.</speaker>
+               <p>Yea, and ſhake it to pieces; worſe than at <hi>Jamaica,</hi> if we do not Repent, and make <hi>Reſtitution.</hi> There is a memorable Paſſage in the ſixteen Chapter of the <hi>Acts</hi> almoſt ſynony<g ref="char:EOLhyphen"/>mous, but very pertinent, to our Tranſactions here in <hi>England,</hi> and the Earthquake this day: I will inſert it, and enlarge upon it. <hi>Paul</hi> and <hi>Silas</hi> the Apoſtle and Diſciple of our Lord Jeſus Chriſt, were, for Preaching the Goſpel and working a Miracle,<note place="margin">Acts xvi.</note> beaten with many Stripes, and caſt into Priſon: And that they might be kept more ſecure, they were thruſt into the Stocks. [<hi>Our Archbiſhop, and ſeveral Biſhops and Miniſters,</hi>
+                  <note place="margin">
+                     <hi>Ver.</hi> 23, 24.</note>
+                  <hi>are violently thruſt from their lawful Habitations and juſt Rights and Poſſeſſions, and confi<g ref="char:EOLhyphen"/>ned with the Fetters of Poverty and Penury; and, were it not for the Charity of well-diſpoſed Chri<g ref="char:EOLhyphen"/>ſtians, they and their innocent Families would ſtarve; becauſe they refuſe to act againſt their Con<g ref="char:EOLhyphen"/>ſciences.</hi>] But <hi>Paul</hi> and <hi>Silas</hi> Prayed and ſung Praiſes unto God, and ſuddenly there was an Earthquake, and the Foundation of the Priſon was ſhaken, and the Doors were opened, and their Bonds looſed; and the Keeper fearing the Priſoners were fled, would have killed him<g ref="char:EOLhyphen"/>ſelf: But <hi>Paul</hi> cried with a loud Voice, <hi>Do thy ſelf no harm, for we are all here.</hi> Then when he had called for a Light, and ſaw the wonderful effects of the Earthquake, he trembled, <hi>[As many of us, God be thanked, did at this days Earthquake]</hi> and brought <hi>Paul</hi> and <hi>Silas</hi> out, and ſaid, <hi>Sirs, What muſt I do to be ſaved?</hi> And they ſaid, <hi>Believe on the Lord Jeſus Chriſt, and thou ſhalt be ſaved and thy houſe:</hi>
+                  <note place="margin">Ver. <hi>25.</hi> to <hi>34.</hi>
+                  </note> 
+                  <hi>And he took them the ſame hour and waſhed their Stripes and and was baptized he and all his. And when he had brought them in<g ref="char:EOLhyphen"/>to his houſe he ſet meat before them and rejoyced, believing in God, and all his houſe.</hi> Three things are very remarkable in this Man's Converſion, <hi>Faith, Repentance,</hi> and <hi>Reſtitution.</hi>
+               </p>
+               <p n="1">1. Faith.—<hi>Believe in the Lord Jeſus Chriſt,</hi> verſ. 29. And that he did believe is plain, for <hi>he was baptized,</hi> verſ. 33.</p>
+               <p n="2">2. Repentance. <hi>He trembled and fell down before them,</hi> verſ. 29. He was ſorry and grieved for his paſt Sins, and reſolved to turn from them and lead a new life, walking in God's holy Commandments for the future, if he could find the true way; and therefore he cries out with great earneſtneſs, in a mighty Agony of Spirit, <hi>Sirs, What muſt I do to be ſaved?</hi>
+               </p>
+               <p n="3">3. Reſtitution. He did as much as lay in his power: He could not take off the Indignity, Affront, Smart and Pain, that the Stripes and Stocks gave them, and with which he had ſo cruelly and with great inveteracy but a little before loaded them; but he waſhed their Sores, bath'd their Bruiſes, bound up their Wounds, and brought them into his Houſe, ſet Meat be<g ref="char:EOLhyphen"/>fore them, and rejoyced, and believed in, and praiſed God. O happy change! From a Jay<g ref="char:EOLhyphen"/>lor he became free-born in Chriſt Jeſus! O bleſſed Earthquake! thus to ſhake and change the hearts of Sinners from a hardened Adamantine Perſecution of Chriſt's Apoſtles and Diſciples to the tenderneſs of a divine Repentanee and an invincible Charity! God grant the Earth<g ref="char:EOLhyphen"/>quake this day may have the ſame E<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ects with us; that we may waſh the Stripes of thoſe we have ſcourged, and with this Keeper of the Priſon, repent and make Reſtitution, without which no Repentance can be true. God hath ſhaken his Rod over us, and if we do not amend
+<pb n="8" facs="tcp:191848:5"/>our Lives he will let it fall heavy upon us. He warned <hi>Jamaica</hi> with ſuch Tremblings as we have ſeen this day ſeveral times before his Judgments poured down upon them. O let us heartily reſlect on our paſt wicked Lives, and with unfeigned Sorrow and effectual Repentance turn from our ways with loathing and deteſtation; chuſing rather to dye than commit, or continue in, any known Sin: And tho Earthquakes are cauſed by the Air being compreſſed, or pent, in the Bowels, or Caverns, of the Earth, and proceed from natural Cauſes as Thun<g ref="char:EOLhyphen"/>der and Lightning do, are bounded by God's omnipotent Providence, and cannot hurt without his Permiſſion; yet if the Puniſhment of our Neighbours and his threatning Rod, which he hath this day held over us in great mercy, will not move us to forſake the crying Sins treat<g ref="char:EOLhyphen"/>ed of at large in the Premiſes of which we are ſo notoriouſly guilty; he will ſuffer his Anger to break forth into Fury, and conſume Us, our Wives, our Houſes and our Children, in the twinkling of an eye; and not only puniſh us temporally, but hurry us into Perdition with the eternally tormented Souls in Hell-fire.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>God forbid we ſhould provoke his Mercies by continuing in our Sins: Verily your Diſcourſe, and this merciful warning from Heaven, hath ſo touch'd my Soul, that I do now, and will always, pray that God would grant us true Repentance, and loyal Hearts to reſtore our Depoſed King. <hi>Amen.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jam.</speaker>
+               <p>Fellow-Subjects, dear Brethren and Chriſtians, for Jeſus Chriſt's ſake conſider: If we perſiſt, an inteſtine War will inevitably follow, [<hi>Pray reflect on the Miſeries of</hi> Ireland;] and 'tis but juſt that we who would not know our own Happineſs ſhould be made ſo miſerable. If we continue obſtinate, and not reſtore King <hi>James</hi> in his life-time; yet an indiſputable Right to the Crown lives as long as the Prince of <hi>Wales</hi> ſurvives, or other Sons which the <hi>Queen</hi> may ſtill have: There will be an entail'd War upon the Nation ſo long as any Intereſt can be made to ſoment and ſupport it. Pray reflect on the bloody Contentions of the Hou<g ref="char:EOLhyphen"/>ſes of <hi>York</hi> and <hi>Lancaſter,</hi> and tell me if it is morally poſſible that we can be happy whilſt a juſt Diſpute continues amongſt us between a <hi>Diſpoſſest Right</hi> and an <hi>
+                     <g ref="char:V">Ʋ</g>njust Poſſeſſion.</hi> God of his infinite Mercy give us true Repentance, loyal Hearts, and diſcerning Souls, that we may ſee and purſue the things which make for our Peace here, and our eternal Welfare here<g ref="char:EOLhyphen"/>after. <hi>Amen.</hi>
+               </p>
+            </sp>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>Sept.</hi> 8. 1692.</date>
+               </dateline>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
